@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 -->
 ## 📊 GitHub Stats
 
-![Hemalah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemsoffcial2094-pixel&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemsoffcial2094-pixel&show_icons=true&theme=tokyonight)
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemsoffcial2094-pixel&layout=compact&theme=tokyonight&hide_border=true&border_radius=15)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemsoffcial2094-pixel&layout=compact&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=hemsoffcial2094-pixel&theme=tokyonight&hide_border=true&border_radius=15)
+![GitHub Streak](https://streak-stats.demolab.com?user=hemsoffcial2094-pixel&theme=tokyonight)

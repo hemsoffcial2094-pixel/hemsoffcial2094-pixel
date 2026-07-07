@@ -15,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📊 GitHub Stats
+![Hemalah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemsofficial2094-pixel&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemsofficial2094&layout=compact&theme=tokyonight&hide_border=true&border_radius=15)
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=hemsofficial2094&theme=tokyonight&hide_border=true&border_radius=15)

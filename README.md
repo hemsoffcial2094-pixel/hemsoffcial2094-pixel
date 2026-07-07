@@ -73,3 +73,115 @@
   <img src="https://img.shields.io/badge/Manus-4F46E5?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Antigravity-7C3AED?style=for-the-badge" />
 </p>
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌐 Personal Portfolio
+
+A modern and responsive portfolio showcasing my skills, projects, certifications, and technical journey with a clean and interactive UI.
+
+**Tech Stack:** Next.js • React • Tailwind CSS
+
+🌐 **Live Demo:** https://hemalahselvaraj.netlify.app/
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📚 Undisturbed – AI Study Space
+
+An AI-powered study platform that helps students learn smarter through AI Chat, Smart Notes, Quiz Generator, Test Mode, Focus Mode, and personalized learning tools.
+
+**Tech Stack:** Next.js • Django • Node.js • Gemini API
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 AI Face Mesh Detection
+
+A real-time face mesh detection system built using MediaPipe and OpenCV that accurately tracks facial landmarks for computer vision applications.
+
+**Tech Stack:** Python • OpenCV • MediaPipe
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⏱️ Stopwatch Web Application
+
+A responsive stopwatch application featuring Start, Pause, Reset, and Lap functionalities with an intuitive and modern user interface.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<h2 align="center">🌱 Currently Learning</h2>
+
+<p align="center">
+
+🚀 Advanced Full Stack Development <br>
+⚛️ Next.js & React Ecosystem <br>
+⚙️ Django • Node.js • Express <br>
+🤖 Artificial Intelligence & Machine Learning <br>
+🧠 Data Structures & Algorithms <br>
+🎨 Three.js & Interactive Web Development
+
+</p>
+
+---
+
+<h2 align="center">🎯 Goals</h2>
+
+- 🚀 Build scalable Full Stack applications
+- 🤖 Develop AI-powered products
+- 🌍 Contribute to Open Source
+- 📚 Master Backend Development
+- 💼 Secure a Software Development Internship
+- 🎨 Create immersive and interactive web experiences
+
+---
+
+<h2 align="center">👀 Profile Views</h2>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=hemsoffcial2094-pixel&style=for-the-badge&color=7C3AED"/>
+</p>
+
+---
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<p align="center">
+I'm always open to collaborating on exciting projects, discussing technology, and connecting with fellow developers.
+</p>
+
+---
+
+<h2 align="center">💡 Quote</h2>
+
+<p align="center">
+<i>"The best way to predict the future is to build it."</i>
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! <br>
+Let's build something amazing together. 🚀
+</p>
